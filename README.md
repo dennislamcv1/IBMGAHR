@@ -1,5 +1,6 @@
 # IBMGAHR
-## Generative AI for Human Resources (HR) Professionals Specialization
+
+## Generative AI for Human Resources (HR) Professionals Specialization (3 course series)
 
 Are you an HR professional or aspiring to start your career in this domain? This specialization can help to advance your HR career by leveraging the power of generative AI. 
 
